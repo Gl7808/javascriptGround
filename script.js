@@ -51,6 +51,8 @@ const people = [
 // })
 // Сокращенная запись со стрелочной функцией
 // Новый массив = массив.филтр(параметр =>(функция) условие (если возвращает true записывает в новый массив))
-const adults = people.filter(person => person.age >= 18)
+// const adults = people.filter(person => person.age >= 18)
+//
+// console.log(adults)
 
-console.log(adults)
+
